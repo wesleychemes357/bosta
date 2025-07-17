@@ -6,6 +6,8 @@ export default function Document() {
     <Html lang="en">
       <Head />
       <body>
+         <h1 className="text-center bg-dark text-white">pag principal top topzera demais top </h1>
+     
         <Main />
         <NextScript />
         <script src="https://cdn.jsdelivr.net/npm/react/umd/react.production.min.js" crossorigin></script>
