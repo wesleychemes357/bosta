@@ -6,7 +6,7 @@ export default function Document() {
     <Html lang="en">
       <Head />
       <body>
-         <h1 className="text-center bg-dark text-white">pag principal top topzera demais top </h1>
+         <h1 className="text-center bg-dark text-white">pag top topzera absurdamente demais top </h1>
      
         <Main />
         <NextScript />

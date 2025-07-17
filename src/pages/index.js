@@ -10,7 +10,7 @@ export async function getServerSideProps() {
 export default function Home({ noticias }) {
   return <>
     <Container>
-      <h1 className="text-center bg-dark text-white">pag principal top topzera demais top </h1>
+      <h1 className="text-center bg-dark text-white">pag PRINCIPAL INDEX MAIN PRINCIPAL top topzera demais top </h1>
       <Row xs={1} md={3}>
         Main index
         {Array.isArray(noticias) ?
